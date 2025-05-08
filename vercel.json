@@ -1,0 +1,6 @@
+
+{
+    "buildCommand": "npm rebuild bcrypt --build-from-source && npm run build",
+    "installCommand": "npm install",
+    "framework": "nextjs"
+  }
